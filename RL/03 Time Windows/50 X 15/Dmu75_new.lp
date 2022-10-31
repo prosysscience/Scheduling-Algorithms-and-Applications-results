@@ -1,0 +1,1502 @@
+%#include "../../est/est_Dmu75.lp".
+%rcmax_50_15_5
+assignment(1, 1, 4, 17).
+assignment(1, 2, 9, 174).
+assignment(1, 3, 6, 159).
+assignment(1, 4, 8, 98).
+assignment(1, 5, 15, 169).
+assignment(1, 6, 14, 176).
+assignment(1, 7, 2, 16).
+assignment(1, 8, 5, 24).
+assignment(1, 9, 12, 153).
+assignment(1, 10, 1, 28).
+assignment(1, 11, 7, 159).
+assignment(1, 12, 3, 91).
+assignment(1, 13, 10, 42).
+assignment(1, 14, 13, 50).
+assignment(1, 15, 11, 138).
+assignment(2, 1, 14, 66).
+assignment(2, 2, 10, 34).
+assignment(2, 3, 11, 189).
+assignment(2, 4, 3, 21).
+assignment(2, 5, 6, 140).
+assignment(2, 6, 13, 172).
+assignment(2, 7, 9, 10).
+assignment(2, 8, 5, 180).
+assignment(2, 9, 12, 200).
+assignment(2, 10, 8, 188).
+assignment(2, 11, 15, 107).
+assignment(2, 12, 7, 146).
+assignment(2, 13, 4, 172).
+assignment(2, 14, 1, 198).
+assignment(2, 15, 2, 22).
+assignment(3, 1, 11, 58).
+assignment(3, 2, 13, 102).
+assignment(3, 3, 1, 161).
+assignment(3, 4, 9, 56).
+assignment(3, 5, 3, 168).
+assignment(3, 6, 14, 141).
+assignment(3, 7, 12, 182).
+assignment(3, 8, 7, 79).
+assignment(3, 9, 5, 14).
+assignment(3, 10, 8, 180).
+assignment(3, 11, 6, 25).
+assignment(3, 12, 2, 137).
+assignment(3, 13, 4, 123).
+assignment(3, 14, 15, 197).
+assignment(3, 15, 10, 183).
+assignment(4, 1, 1, 72).
+assignment(4, 2, 4, 74).
+assignment(4, 3, 7, 142).
+assignment(4, 4, 6, 96).
+assignment(4, 5, 8, 131).
+assignment(4, 6, 9, 157).
+assignment(4, 7, 13, 200).
+assignment(4, 8, 10, 122).
+assignment(4, 9, 3, 76).
+assignment(4, 10, 12, 159).
+assignment(4, 11, 14, 45).
+assignment(4, 12, 5, 193).
+assignment(4, 13, 2, 151).
+assignment(4, 14, 11, 28).
+assignment(4, 15, 15, 137).
+assignment(5, 1, 7, 34).
+assignment(5, 2, 13, 44).
+assignment(5, 3, 2, 104).
+assignment(5, 4, 4, 165).
+assignment(5, 5, 11, 187).
+assignment(5, 6, 9, 155).
+assignment(5, 7, 1, 106).
+assignment(5, 8, 10, 70).
+assignment(5, 9, 6, 195).
+assignment(5, 10, 5, 176).
+assignment(5, 11, 14, 193).
+assignment(5, 12, 3, 121).
+assignment(5, 13, 12, 16).
+assignment(5, 14, 8, 149).
+assignment(5, 15, 15, 70).
+assignment(6, 1, 5, 117).
+assignment(6, 2, 11, 85).
+assignment(6, 3, 9, 22).
+assignment(6, 4, 13, 21).
+assignment(6, 5, 8, 147).
+assignment(6, 6, 1, 82).
+assignment(6, 7, 4, 151).
+assignment(6, 8, 6, 31).
+assignment(6, 9, 2, 113).
+assignment(6, 10, 15, 171).
+assignment(6, 11, 14, 126).
+assignment(6, 12, 3, 66).
+assignment(6, 13, 10, 99).
+assignment(6, 14, 7, 108).
+assignment(6, 15, 12, 51).
+assignment(7, 1, 5, 137).
+assignment(7, 2, 15, 59).
+assignment(7, 3, 1, 25).
+assignment(7, 4, 8, 105).
+assignment(7, 5, 4, 118).
+assignment(7, 6, 9, 81).
+assignment(7, 7, 7, 32).
+assignment(7, 8, 14, 127).
+assignment(7, 9, 3, 158).
+assignment(7, 10, 10, 76).
+assignment(7, 11, 11, 168).
+assignment(7, 12, 12, 170).
+assignment(7, 13, 6, 113).
+assignment(7, 14, 13, 177).
+assignment(7, 15, 2, 8).
+assignment(8, 1, 6, 92).
+assignment(8, 2, 13, 171).
+assignment(8, 3, 4, 75).
+assignment(8, 4, 5, 74).
+assignment(8, 5, 11, 37).
+assignment(8, 6, 10, 100).
+assignment(8, 7, 14, 120).
+assignment(8, 8, 8, 136).
+assignment(8, 9, 2, 166).
+assignment(8, 10, 15, 173).
+assignment(8, 11, 9, 153).
+assignment(8, 12, 3, 108).
+assignment(8, 13, 7, 74).
+assignment(8, 14, 12, 106).
+assignment(8, 15, 1, 127).
+assignment(9, 1, 5, 195).
+assignment(9, 2, 9, 161).
+assignment(9, 3, 15, 71).
+assignment(9, 4, 1, 48).
+assignment(9, 5, 14, 108).
+assignment(9, 6, 4, 184).
+assignment(9, 7, 8, 129).
+assignment(9, 8, 11, 185).
+assignment(9, 9, 2, 2).
+assignment(9, 10, 12, 81).
+assignment(9, 11, 6, 51).
+assignment(9, 12, 3, 67).
+assignment(9, 13, 13, 32).
+assignment(9, 14, 7, 111).
+assignment(9, 15, 10, 181).
+assignment(10, 1, 1, 144).
+assignment(10, 2, 8, 45).
+assignment(10, 3, 2, 188).
+assignment(10, 4, 12, 187).
+assignment(10, 5, 13, 16).
+assignment(10, 6, 3, 155).
+assignment(10, 7, 14, 20).
+assignment(10, 8, 4, 13).
+assignment(10, 9, 15, 75).
+assignment(10, 10, 6, 128).
+assignment(10, 11, 7, 8).
+assignment(10, 12, 5, 74).
+assignment(10, 13, 11, 92).
+assignment(10, 14, 9, 28).
+assignment(10, 15, 10, 79).
+assignment(11, 1, 4, 172).
+assignment(11, 2, 1, 85).
+assignment(11, 3, 6, 176).
+assignment(11, 4, 2, 22).
+assignment(11, 5, 10, 62).
+assignment(11, 6, 14, 103).
+assignment(11, 7, 15, 155).
+assignment(11, 8, 11, 147).
+assignment(11, 9, 7, 33).
+assignment(11, 10, 13, 45).
+assignment(11, 11, 12, 109).
+assignment(11, 12, 8, 155).
+assignment(11, 13, 3, 172).
+assignment(11, 14, 9, 87).
+assignment(11, 15, 5, 137).
+assignment(12, 1, 2, 194).
+assignment(12, 2, 6, 123).
+assignment(12, 3, 1, 18).
+assignment(12, 4, 7, 195).
+assignment(12, 5, 4, 168).
+assignment(12, 6, 12, 153).
+assignment(12, 7, 11, 139).
+assignment(12, 8, 3, 135).
+assignment(12, 9, 10, 5).
+assignment(12, 10, 9, 141).
+assignment(12, 11, 14, 73).
+assignment(12, 12, 8, 158).
+assignment(12, 13, 15, 173).
+assignment(12, 14, 5, 5).
+assignment(12, 15, 13, 160).
+assignment(13, 1, 9, 112).
+assignment(13, 2, 10, 1).
+assignment(13, 3, 13, 28).
+assignment(13, 4, 2, 105).
+assignment(13, 5, 3, 74).
+assignment(13, 6, 5, 39).
+assignment(13, 7, 1, 165).
+assignment(13, 8, 4, 82).
+assignment(13, 9, 11, 39).
+assignment(13, 10, 7, 38).
+assignment(13, 11, 14, 19).
+assignment(13, 12, 8, 89).
+assignment(13, 13, 12, 36).
+assignment(13, 14, 6, 156).
+assignment(13, 15, 15, 174).
+assignment(14, 1, 9, 179).
+assignment(14, 2, 12, 192).
+assignment(14, 3, 5, 64).
+assignment(14, 4, 2, 198).
+assignment(14, 5, 10, 115).
+assignment(14, 6, 13, 51).
+assignment(14, 7, 3, 86).
+assignment(14, 8, 1, 131).
+assignment(14, 9, 4, 102).
+assignment(14, 10, 15, 191).
+assignment(14, 11, 7, 151).
+assignment(14, 12, 11, 83).
+assignment(14, 13, 6, 24).
+assignment(14, 14, 8, 156).
+assignment(14, 15, 14, 132).
+assignment(15, 1, 14, 12).
+assignment(15, 2, 3, 52).
+assignment(15, 3, 4, 177).
+assignment(15, 4, 12, 89).
+assignment(15, 5, 6, 74).
+assignment(15, 6, 8, 162).
+assignment(15, 7, 10, 198).
+assignment(15, 8, 2, 44).
+assignment(15, 9, 5, 124).
+assignment(15, 10, 7, 117).
+assignment(15, 11, 15, 117).
+assignment(15, 12, 9, 130).
+assignment(15, 13, 11, 145).
+assignment(15, 14, 1, 177).
+assignment(15, 15, 13, 17).
+assignment(16, 1, 9, 168).
+assignment(16, 2, 13, 123).
+assignment(16, 3, 15, 39).
+assignment(16, 4, 3, 123).
+assignment(16, 5, 6, 137).
+assignment(16, 6, 11, 129).
+assignment(16, 7, 10, 150).
+assignment(16, 8, 4, 138).
+assignment(16, 9, 12, 114).
+assignment(16, 10, 8, 124).
+assignment(16, 11, 14, 126).
+assignment(16, 12, 2, 122).
+assignment(16, 13, 5, 131).
+assignment(16, 14, 1, 33).
+assignment(16, 15, 7, 150).
+assignment(17, 1, 7, 23).
+assignment(17, 2, 10, 42).
+assignment(17, 3, 6, 177).
+assignment(17, 4, 12, 44).
+assignment(17, 5, 2, 66).
+assignment(17, 6, 8, 15).
+assignment(17, 7, 13, 108).
+assignment(17, 8, 9, 36).
+assignment(17, 9, 14, 181).
+assignment(17, 10, 3, 117).
+assignment(17, 11, 11, 7).
+assignment(17, 12, 5, 84).
+assignment(17, 13, 15, 31).
+assignment(17, 14, 1, 81).
+assignment(17, 15, 4, 46).
+assignment(18, 1, 11, 101).
+assignment(18, 2, 9, 15).
+assignment(18, 3, 14, 116).
+assignment(18, 4, 2, 136).
+assignment(18, 5, 1, 51).
+assignment(18, 6, 3, 129).
+assignment(18, 7, 12, 32).
+assignment(18, 8, 5, 80).
+assignment(18, 9, 7, 91).
+assignment(18, 10, 15, 82).
+assignment(18, 11, 8, 85).
+assignment(18, 12, 4, 31).
+assignment(18, 13, 10, 104).
+assignment(18, 14, 6, 194).
+assignment(18, 15, 13, 98).
+assignment(19, 1, 4, 129).
+assignment(19, 2, 11, 165).
+assignment(19, 3, 6, 102).
+assignment(19, 4, 8, 41).
+assignment(19, 5, 7, 32).
+assignment(19, 6, 13, 17).
+assignment(19, 7, 3, 194).
+assignment(19, 8, 12, 54).
+assignment(19, 9, 15, 86).
+assignment(19, 10, 5, 10).
+assignment(19, 11, 10, 141).
+assignment(19, 12, 2, 194).
+assignment(19, 13, 14, 48).
+assignment(19, 14, 9, 128).
+assignment(19, 15, 1, 122).
+assignment(20, 1, 8, 112).
+assignment(20, 2, 4, 192).
+assignment(20, 3, 9, 91).
+assignment(20, 4, 3, 90).
+assignment(20, 5, 15, 59).
+assignment(20, 6, 6, 199).
+assignment(20, 7, 7, 49).
+assignment(20, 8, 14, 50).
+assignment(20, 9, 10, 13).
+assignment(20, 10, 11, 85).
+assignment(20, 11, 1, 156).
+assignment(20, 12, 2, 161).
+assignment(20, 13, 13, 123).
+assignment(20, 14, 12, 7).
+assignment(20, 15, 5, 194).
+assignment(21, 1, 11, 147).
+assignment(21, 2, 14, 59).
+assignment(21, 3, 13, 18).
+assignment(21, 4, 9, 136).
+assignment(21, 5, 12, 155).
+assignment(21, 6, 2, 142).
+assignment(21, 7, 5, 124).
+assignment(21, 8, 8, 165).
+assignment(21, 9, 7, 52).
+assignment(21, 10, 3, 58).
+assignment(21, 11, 10, 197).
+assignment(21, 12, 1, 61).
+assignment(21, 13, 6, 19).
+assignment(21, 14, 4, 1).
+assignment(21, 15, 15, 135).
+assignment(22, 1, 3, 33).
+assignment(22, 2, 9, 116).
+assignment(22, 3, 11, 148).
+assignment(22, 4, 5, 120).
+assignment(22, 5, 8, 69).
+assignment(22, 6, 14, 143).
+assignment(22, 7, 2, 73).
+assignment(22, 8, 7, 80).
+assignment(22, 9, 10, 153).
+assignment(22, 10, 15, 142).
+assignment(22, 11, 6, 65).
+assignment(22, 12, 4, 36).
+assignment(22, 13, 1, 148).
+assignment(22, 14, 12, 178).
+assignment(22, 15, 13, 41).
+assignment(23, 1, 8, 185).
+assignment(23, 2, 15, 180).
+assignment(23, 3, 12, 196).
+assignment(23, 4, 2, 195).
+assignment(23, 5, 1, 138).
+assignment(23, 6, 10, 152).
+assignment(23, 7, 5, 11).
+assignment(23, 8, 6, 138).
+assignment(23, 9, 13, 182).
+assignment(23, 10, 11, 188).
+assignment(23, 11, 9, 52).
+assignment(23, 12, 14, 182).
+assignment(23, 13, 4, 107).
+assignment(23, 14, 7, 160).
+assignment(23, 15, 3, 175).
+assignment(24, 1, 14, 38).
+assignment(24, 2, 9, 116).
+assignment(24, 3, 6, 8).
+assignment(24, 4, 3, 174).
+assignment(24, 5, 13, 147).
+assignment(24, 6, 11, 87).
+assignment(24, 7, 7, 95).
+assignment(24, 8, 15, 67).
+assignment(24, 9, 5, 45).
+assignment(24, 10, 12, 86).
+assignment(24, 11, 10, 191).
+assignment(24, 12, 1, 162).
+assignment(24, 13, 2, 197).
+assignment(24, 14, 8, 6).
+assignment(24, 15, 4, 77).
+assignment(25, 1, 14, 182).
+assignment(25, 2, 8, 24).
+assignment(25, 3, 10, 112).
+assignment(25, 4, 13, 106).
+assignment(25, 5, 6, 39).
+assignment(25, 6, 15, 133).
+assignment(25, 7, 2, 165).
+assignment(25, 8, 9, 192).
+assignment(25, 9, 4, 159).
+assignment(25, 10, 3, 6).
+assignment(25, 11, 12, 75).
+assignment(25, 12, 5, 73).
+assignment(25, 13, 7, 101).
+assignment(25, 14, 11, 166).
+assignment(25, 15, 1, 183).
+assignment(26, 1, 13, 129).
+assignment(26, 2, 11, 129).
+assignment(26, 3, 6, 77).
+assignment(26, 4, 7, 107).
+assignment(26, 5, 12, 68).
+assignment(26, 6, 8, 130).
+assignment(26, 7, 14, 89).
+assignment(26, 8, 9, 113).
+assignment(26, 9, 15, 197).
+assignment(26, 10, 4, 127).
+assignment(26, 11, 1, 75).
+assignment(26, 12, 3, 1).
+assignment(26, 13, 10, 172).
+assignment(26, 14, 2, 89).
+assignment(26, 15, 5, 111).
+assignment(27, 1, 13, 107).
+assignment(27, 2, 15, 182).
+assignment(27, 3, 11, 118).
+assignment(27, 4, 4, 172).
+assignment(27, 5, 5, 153).
+assignment(27, 6, 1, 189).
+assignment(27, 7, 2, 189).
+assignment(27, 8, 6, 139).
+assignment(27, 9, 14, 154).
+assignment(27, 10, 8, 76).
+assignment(27, 11, 3, 177).
+assignment(27, 12, 12, 114).
+assignment(27, 13, 7, 71).
+assignment(27, 14, 9, 197).
+assignment(27, 15, 10, 66).
+assignment(28, 1, 8, 74).
+assignment(28, 2, 9, 87).
+assignment(28, 3, 7, 54).
+assignment(28, 4, 12, 122).
+assignment(28, 5, 5, 37).
+assignment(28, 6, 3, 14).
+assignment(28, 7, 11, 139).
+assignment(28, 8, 2, 117).
+assignment(28, 9, 1, 132).
+assignment(28, 10, 15, 10).
+assignment(28, 11, 4, 48).
+assignment(28, 12, 10, 36).
+assignment(28, 13, 13, 139).
+assignment(28, 14, 14, 114).
+assignment(28, 15, 6, 192).
+assignment(29, 1, 5, 34).
+assignment(29, 2, 4, 70).
+assignment(29, 3, 10, 14).
+assignment(29, 4, 7, 75).
+assignment(29, 5, 6, 12).
+assignment(29, 6, 15, 153).
+assignment(29, 7, 8, 176).
+assignment(29, 8, 2, 3).
+assignment(29, 9, 11, 74).
+assignment(29, 10, 3, 172).
+assignment(29, 11, 1, 117).
+assignment(29, 12, 9, 157).
+assignment(29, 13, 13, 72).
+assignment(29, 14, 12, 53).
+assignment(29, 15, 14, 49).
+assignment(30, 1, 4, 87).
+assignment(30, 2, 12, 80).
+assignment(30, 3, 14, 95).
+assignment(30, 4, 1, 105).
+assignment(30, 5, 2, 113).
+assignment(30, 6, 13, 60).
+assignment(30, 7, 9, 103).
+assignment(30, 8, 11, 120).
+assignment(30, 9, 10, 60).
+assignment(30, 10, 5, 72).
+assignment(30, 11, 7, 133).
+assignment(30, 12, 8, 184).
+assignment(30, 13, 6, 45).
+assignment(30, 14, 3, 103).
+assignment(30, 15, 15, 62).
+assignment(31, 1, 15, 59).
+assignment(31, 2, 2, 185).
+assignment(31, 3, 10, 138).
+assignment(31, 4, 12, 85).
+assignment(31, 5, 8, 53).
+assignment(31, 6, 11, 74).
+assignment(31, 7, 3, 49).
+assignment(31, 8, 6, 168).
+assignment(31, 9, 1, 187).
+assignment(31, 10, 5, 80).
+assignment(31, 11, 14, 135).
+assignment(31, 12, 9, 137).
+assignment(31, 13, 13, 21).
+assignment(31, 14, 7, 42).
+assignment(31, 15, 4, 129).
+assignment(32, 1, 6, 69).
+assignment(32, 2, 8, 15).
+assignment(32, 3, 7, 69).
+assignment(32, 4, 13, 137).
+assignment(32, 5, 3, 73).
+assignment(32, 6, 4, 17).
+assignment(32, 7, 1, 174).
+assignment(32, 8, 5, 42).
+assignment(32, 9, 9, 122).
+assignment(32, 10, 15, 185).
+assignment(32, 11, 14, 78).
+assignment(32, 12, 2, 60).
+assignment(32, 13, 10, 31).
+assignment(32, 14, 11, 186).
+assignment(32, 15, 12, 195).
+assignment(33, 1, 14, 7).
+assignment(33, 2, 5, 103).
+assignment(33, 3, 10, 60).
+assignment(33, 4, 3, 81).
+assignment(33, 5, 9, 152).
+assignment(33, 6, 6, 147).
+assignment(33, 7, 7, 47).
+assignment(33, 8, 4, 33).
+assignment(33, 9, 1, 123).
+assignment(33, 10, 2, 159).
+assignment(33, 11, 15, 189).
+assignment(33, 12, 12, 113).
+assignment(33, 13, 8, 165).
+assignment(33, 14, 11, 5).
+assignment(33, 15, 13, 33).
+assignment(34, 1, 5, 150).
+assignment(34, 2, 13, 55).
+assignment(34, 3, 2, 197).
+assignment(34, 4, 4, 125).
+assignment(34, 5, 3, 12).
+assignment(34, 6, 9, 122).
+assignment(34, 7, 14, 127).
+assignment(34, 8, 10, 105).
+assignment(34, 9, 7, 141).
+assignment(34, 10, 15, 32).
+assignment(34, 11, 6, 183).
+assignment(34, 12, 8, 23).
+assignment(34, 13, 12, 55).
+assignment(34, 14, 11, 161).
+assignment(34, 15, 1, 32).
+assignment(35, 1, 5, 71).
+assignment(35, 2, 2, 147).
+assignment(35, 3, 9, 89).
+assignment(35, 4, 1, 150).
+assignment(35, 5, 6, 87).
+assignment(35, 6, 3, 13).
+assignment(35, 7, 15, 13).
+assignment(35, 8, 8, 23).
+assignment(35, 9, 12, 172).
+assignment(35, 10, 11, 17).
+assignment(35, 11, 13, 184).
+assignment(35, 12, 10, 32).
+assignment(35, 13, 7, 192).
+assignment(35, 14, 4, 42).
+assignment(35, 15, 14, 53).
+assignment(36, 1, 15, 191).
+assignment(36, 2, 8, 85).
+assignment(36, 3, 3, 111).
+assignment(36, 4, 11, 177).
+assignment(36, 5, 9, 176).
+assignment(36, 6, 10, 80).
+assignment(36, 7, 1, 30).
+assignment(36, 8, 7, 181).
+assignment(36, 9, 4, 57).
+assignment(36, 10, 12, 12).
+assignment(36, 11, 6, 1).
+assignment(36, 12, 2, 12).
+assignment(36, 13, 14, 103).
+assignment(36, 14, 13, 79).
+assignment(36, 15, 5, 102).
+assignment(37, 1, 2, 181).
+assignment(37, 2, 15, 127).
+assignment(37, 3, 9, 27).
+assignment(37, 4, 7, 193).
+assignment(37, 5, 14, 94).
+assignment(37, 6, 10, 86).
+assignment(37, 7, 13, 63).
+assignment(37, 8, 1, 103).
+assignment(37, 9, 8, 151).
+assignment(37, 10, 5, 29).
+assignment(37, 11, 3, 100).
+assignment(37, 12, 11, 190).
+assignment(37, 13, 6, 155).
+assignment(37, 14, 4, 136).
+assignment(37, 15, 12, 143).
+assignment(38, 1, 13, 72).
+assignment(38, 2, 6, 153).
+assignment(38, 3, 12, 2).
+assignment(38, 4, 5, 133).
+assignment(38, 5, 8, 16).
+assignment(38, 6, 3, 147).
+assignment(38, 7, 4, 167).
+assignment(38, 8, 11, 78).
+assignment(38, 9, 9, 69).
+assignment(38, 10, 15, 188).
+assignment(38, 11, 14, 133).
+assignment(38, 12, 10, 22).
+assignment(38, 13, 2, 66).
+assignment(38, 14, 1, 39).
+assignment(38, 15, 7, 87).
+assignment(39, 1, 14, 139).
+assignment(39, 2, 12, 188).
+assignment(39, 3, 1, 80).
+assignment(39, 4, 8, 90).
+assignment(39, 5, 6, 40).
+assignment(39, 6, 15, 91).
+assignment(39, 7, 10, 52).
+assignment(39, 8, 4, 132).
+assignment(39, 9, 9, 60).
+assignment(39, 10, 13, 138).
+assignment(39, 11, 5, 18).
+assignment(39, 12, 11, 152).
+assignment(39, 13, 7, 101).
+assignment(39, 14, 3, 179).
+assignment(39, 15, 2, 128).
+assignment(40, 1, 4, 52).
+assignment(40, 2, 14, 157).
+assignment(40, 3, 3, 133).
+assignment(40, 4, 6, 164).
+assignment(40, 5, 12, 88).
+assignment(40, 6, 8, 83).
+assignment(40, 7, 11, 167).
+assignment(40, 8, 9, 42).
+assignment(40, 9, 7, 46).
+assignment(40, 10, 1, 17).
+assignment(40, 11, 15, 6).
+assignment(40, 12, 2, 175).
+assignment(40, 13, 10, 40).
+assignment(40, 14, 5, 136).
+assignment(40, 15, 13, 130).
+assignment(41, 1, 13, 155).
+assignment(41, 2, 8, 153).
+assignment(41, 3, 14, 91).
+assignment(41, 4, 9, 73).
+assignment(41, 5, 1, 96).
+assignment(41, 6, 4, 35).
+assignment(41, 7, 3, 162).
+assignment(41, 8, 12, 20).
+assignment(41, 9, 6, 83).
+assignment(41, 10, 7, 169).
+assignment(41, 11, 11, 49).
+assignment(41, 12, 5, 32).
+assignment(41, 13, 2, 62).
+assignment(41, 14, 10, 7).
+assignment(41, 15, 15, 83).
+assignment(42, 1, 12, 44).
+assignment(42, 2, 1, 199).
+assignment(42, 3, 10, 68).
+assignment(42, 4, 4, 138).
+assignment(42, 5, 6, 3).
+assignment(42, 6, 11, 105).
+assignment(42, 7, 15, 140).
+assignment(42, 8, 9, 106).
+assignment(42, 9, 7, 184).
+assignment(42, 10, 3, 23).
+assignment(42, 11, 5, 157).
+assignment(42, 12, 14, 103).
+assignment(42, 13, 8, 50).
+assignment(42, 14, 2, 94).
+assignment(42, 15, 13, 182).
+assignment(43, 1, 10, 119).
+assignment(43, 2, 11, 129).
+assignment(43, 3, 8, 127).
+assignment(43, 4, 4, 70).
+assignment(43, 5, 1, 138).
+assignment(43, 6, 6, 68).
+assignment(43, 7, 2, 60).
+assignment(43, 8, 9, 183).
+assignment(43, 9, 13, 10).
+assignment(43, 10, 14, 76).
+assignment(43, 11, 7, 47).
+assignment(43, 12, 5, 75).
+assignment(43, 13, 15, 123).
+assignment(43, 14, 12, 49).
+assignment(43, 15, 3, 129).
+assignment(44, 1, 3, 158).
+assignment(44, 2, 8, 111).
+assignment(44, 3, 9, 175).
+assignment(44, 4, 2, 144).
+assignment(44, 5, 1, 102).
+assignment(44, 6, 7, 180).
+assignment(44, 7, 12, 173).
+assignment(44, 8, 15, 81).
+assignment(44, 9, 5, 190).
+assignment(44, 10, 6, 119).
+assignment(44, 11, 13, 84).
+assignment(44, 12, 4, 23).
+assignment(44, 13, 11, 121).
+assignment(44, 14, 14, 38).
+assignment(44, 15, 10, 95).
+assignment(45, 1, 11, 8).
+assignment(45, 2, 5, 44).
+assignment(45, 3, 14, 69).
+assignment(45, 4, 8, 30).
+assignment(45, 5, 3, 94).
+assignment(45, 6, 15, 106).
+assignment(45, 7, 10, 190).
+assignment(45, 8, 12, 164).
+assignment(45, 9, 2, 26).
+assignment(45, 10, 6, 83).
+assignment(45, 11, 1, 159).
+assignment(45, 12, 7, 15).
+assignment(45, 13, 13, 127).
+assignment(45, 14, 9, 28).
+assignment(45, 15, 4, 12).
+assignment(46, 1, 1, 28).
+assignment(46, 2, 15, 27).
+assignment(46, 3, 10, 124).
+assignment(46, 4, 3, 109).
+assignment(46, 5, 11, 122).
+assignment(46, 6, 4, 92).
+assignment(46, 7, 12, 122).
+assignment(46, 8, 13, 188).
+assignment(46, 9, 2, 183).
+assignment(46, 10, 5, 8).
+assignment(46, 11, 9, 167).
+assignment(46, 12, 7, 5).
+assignment(46, 13, 8, 50).
+assignment(46, 14, 14, 18).
+assignment(46, 15, 6, 169).
+assignment(47, 1, 6, 165).
+assignment(47, 2, 1, 184).
+assignment(47, 3, 11, 135).
+assignment(47, 4, 2, 39).
+assignment(47, 5, 15, 157).
+assignment(47, 6, 4, 82).
+assignment(47, 7, 12, 190).
+assignment(47, 8, 5, 1).
+assignment(47, 9, 13, 90).
+assignment(47, 10, 10, 114).
+assignment(47, 11, 14, 120).
+assignment(47, 12, 3, 172).
+assignment(47, 13, 9, 192).
+assignment(47, 14, 8, 126).
+assignment(47, 15, 7, 196).
+assignment(48, 1, 9, 65).
+assignment(48, 2, 12, 17).
+assignment(48, 3, 4, 94).
+assignment(48, 4, 13, 129).
+assignment(48, 5, 3, 16).
+assignment(48, 6, 14, 181).
+assignment(48, 7, 7, 13).
+assignment(48, 8, 8, 187).
+assignment(48, 9, 11, 61).
+assignment(48, 10, 1, 197).
+assignment(48, 11, 5, 56).
+assignment(48, 12, 15, 80).
+assignment(48, 13, 2, 35).
+assignment(48, 14, 10, 84).
+assignment(48, 15, 6, 118).
+assignment(49, 1, 15, 81).
+assignment(49, 2, 9, 14).
+assignment(49, 3, 3, 79).
+assignment(49, 4, 10, 52).
+assignment(49, 5, 12, 145).
+assignment(49, 6, 6, 114).
+assignment(49, 7, 7, 9).
+assignment(49, 8, 1, 73).
+assignment(49, 9, 13, 85).
+assignment(49, 10, 5, 15).
+assignment(49, 11, 8, 109).
+assignment(49, 12, 11, 123).
+assignment(49, 13, 14, 53).
+assignment(49, 14, 2, 66).
+assignment(49, 15, 4, 129).
+assignment(50, 1, 11, 52).
+assignment(50, 2, 2, 11).
+assignment(50, 3, 5, 24).
+assignment(50, 4, 14, 174).
+assignment(50, 5, 1, 163).
+assignment(50, 6, 7, 145).
+assignment(50, 7, 15, 66).
+assignment(50, 8, 6, 89).
+assignment(50, 9, 9, 20).
+assignment(50, 10, 4, 61).
+assignment(50, 11, 8, 81).
+assignment(50, 12, 13, 179).
+assignment(50, 13, 3, 28).
+assignment(50, 14, 10, 93).
+assignment(50, 15, 12, 126).
+assignToTimeWindow(1,1,1).
+assignToTimeWindow(1,2,1).
+assignToTimeWindow(1,3,1).
+assignToTimeWindow(1,4,1).
+assignToTimeWindow(1,5,1).
+assignToTimeWindow(1,6,1).
+assignToTimeWindow(1,7,1).
+assignToTimeWindow(1,8,1).
+assignToTimeWindow(1,9,1).
+assignToTimeWindow(1,10,1).
+assignToTimeWindow(1,11,1).
+assignToTimeWindow(1,12,1).
+assignToTimeWindow(1,13,1).
+assignToTimeWindow(1,14,1).
+assignToTimeWindow(1,15,2).
+assignToTimeWindow(2,1,1).
+assignToTimeWindow(2,2,1).
+assignToTimeWindow(2,3,1).
+assignToTimeWindow(2,4,2).
+assignToTimeWindow(2,5,2).
+assignToTimeWindow(2,6,2).
+assignToTimeWindow(2,7,2).
+assignToTimeWindow(2,8,2).
+assignToTimeWindow(2,9,2).
+assignToTimeWindow(2,10,2).
+assignToTimeWindow(2,11,3).
+assignToTimeWindow(2,12,3).
+assignToTimeWindow(2,13,3).
+assignToTimeWindow(2,14,3).
+assignToTimeWindow(2,15,3).
+assignToTimeWindow(3,1,1).
+assignToTimeWindow(3,2,1).
+assignToTimeWindow(3,3,1).
+assignToTimeWindow(3,4,1).
+assignToTimeWindow(3,5,1).
+assignToTimeWindow(3,6,1).
+assignToTimeWindow(3,7,1).
+assignToTimeWindow(3,8,2).
+assignToTimeWindow(3,9,2).
+assignToTimeWindow(3,10,2).
+assignToTimeWindow(3,11,2).
+assignToTimeWindow(3,12,2).
+assignToTimeWindow(3,13,2).
+assignToTimeWindow(3,14,2).
+assignToTimeWindow(3,15,3).
+assignToTimeWindow(4,1,2).
+assignToTimeWindow(4,2,2).
+assignToTimeWindow(4,3,2).
+assignToTimeWindow(4,4,2).
+assignToTimeWindow(4,5,2).
+assignToTimeWindow(4,6,2).
+assignToTimeWindow(4,7,2).
+assignToTimeWindow(4,8,2).
+assignToTimeWindow(4,9,2).
+assignToTimeWindow(4,10,3).
+assignToTimeWindow(4,11,3).
+assignToTimeWindow(4,12,3).
+assignToTimeWindow(4,13,3).
+assignToTimeWindow(4,14,3).
+assignToTimeWindow(4,15,3).
+assignToTimeWindow(5,1,1).
+assignToTimeWindow(5,2,1).
+assignToTimeWindow(5,3,1).
+assignToTimeWindow(5,4,1).
+assignToTimeWindow(5,5,1).
+assignToTimeWindow(5,6,1).
+assignToTimeWindow(5,7,1).
+assignToTimeWindow(5,8,2).
+assignToTimeWindow(5,9,2).
+assignToTimeWindow(5,10,2).
+assignToTimeWindow(5,11,2).
+assignToTimeWindow(5,12,2).
+assignToTimeWindow(5,13,2).
+assignToTimeWindow(5,14,2).
+assignToTimeWindow(5,15,2).
+assignToTimeWindow(6,1,1).
+assignToTimeWindow(6,2,1).
+assignToTimeWindow(6,3,2).
+assignToTimeWindow(6,4,2).
+assignToTimeWindow(6,5,2).
+assignToTimeWindow(6,6,2).
+assignToTimeWindow(6,7,2).
+assignToTimeWindow(6,8,2).
+assignToTimeWindow(6,9,3).
+assignToTimeWindow(6,10,3).
+assignToTimeWindow(6,11,3).
+assignToTimeWindow(6,12,3).
+assignToTimeWindow(6,13,3).
+assignToTimeWindow(6,14,3).
+assignToTimeWindow(6,15,3).
+assignToTimeWindow(7,1,1).
+assignToTimeWindow(7,2,1).
+assignToTimeWindow(7,3,2).
+assignToTimeWindow(7,4,2).
+assignToTimeWindow(7,5,2).
+assignToTimeWindow(7,6,2).
+assignToTimeWindow(7,7,3).
+assignToTimeWindow(7,8,3).
+assignToTimeWindow(7,9,3).
+assignToTimeWindow(7,10,3).
+assignToTimeWindow(7,11,3).
+assignToTimeWindow(7,12,3).
+assignToTimeWindow(7,13,3).
+assignToTimeWindow(7,14,3).
+assignToTimeWindow(7,15,3).
+assignToTimeWindow(8,1,1).
+assignToTimeWindow(8,2,1).
+assignToTimeWindow(8,3,1).
+assignToTimeWindow(8,4,1).
+assignToTimeWindow(8,5,1).
+assignToTimeWindow(8,6,1).
+assignToTimeWindow(8,7,1).
+assignToTimeWindow(8,8,1).
+assignToTimeWindow(8,9,1).
+assignToTimeWindow(8,10,1).
+assignToTimeWindow(8,11,1).
+assignToTimeWindow(8,12,1).
+assignToTimeWindow(8,13,1).
+assignToTimeWindow(8,14,1).
+assignToTimeWindow(8,15,1).
+assignToTimeWindow(9,1,2).
+assignToTimeWindow(9,2,2).
+assignToTimeWindow(9,3,2).
+assignToTimeWindow(9,4,2).
+assignToTimeWindow(9,5,3).
+assignToTimeWindow(9,6,3).
+assignToTimeWindow(9,7,3).
+assignToTimeWindow(9,8,3).
+assignToTimeWindow(9,9,3).
+assignToTimeWindow(9,10,3).
+assignToTimeWindow(9,11,3).
+assignToTimeWindow(9,12,3).
+assignToTimeWindow(9,13,3).
+assignToTimeWindow(9,14,3).
+assignToTimeWindow(9,15,3).
+assignToTimeWindow(10,1,2).
+assignToTimeWindow(10,2,2).
+assignToTimeWindow(10,3,2).
+assignToTimeWindow(10,4,2).
+assignToTimeWindow(10,5,2).
+assignToTimeWindow(10,6,2).
+assignToTimeWindow(10,7,2).
+assignToTimeWindow(10,8,2).
+assignToTimeWindow(10,9,3).
+assignToTimeWindow(10,10,3).
+assignToTimeWindow(10,11,3).
+assignToTimeWindow(10,12,3).
+assignToTimeWindow(10,13,3).
+assignToTimeWindow(10,14,3).
+assignToTimeWindow(10,15,3).
+assignToTimeWindow(11,1,2).
+assignToTimeWindow(11,2,3).
+assignToTimeWindow(11,3,3).
+assignToTimeWindow(11,4,3).
+assignToTimeWindow(11,5,3).
+assignToTimeWindow(11,6,3).
+assignToTimeWindow(11,7,3).
+assignToTimeWindow(11,8,3).
+assignToTimeWindow(11,9,3).
+assignToTimeWindow(11,10,3).
+assignToTimeWindow(11,11,3).
+assignToTimeWindow(11,12,3).
+assignToTimeWindow(11,13,3).
+assignToTimeWindow(11,14,3).
+assignToTimeWindow(11,15,3).
+assignToTimeWindow(12,1,1).
+assignToTimeWindow(12,2,1).
+assignToTimeWindow(12,3,1).
+assignToTimeWindow(12,4,2).
+assignToTimeWindow(12,5,2).
+assignToTimeWindow(12,6,2).
+assignToTimeWindow(12,7,2).
+assignToTimeWindow(12,8,2).
+assignToTimeWindow(12,9,2).
+assignToTimeWindow(12,10,2).
+assignToTimeWindow(12,11,2).
+assignToTimeWindow(12,12,2).
+assignToTimeWindow(12,13,2).
+assignToTimeWindow(12,14,3).
+assignToTimeWindow(12,15,3).
+assignToTimeWindow(13,1,2).
+assignToTimeWindow(13,2,2).
+assignToTimeWindow(13,3,3).
+assignToTimeWindow(13,4,3).
+assignToTimeWindow(13,5,3).
+assignToTimeWindow(13,6,3).
+assignToTimeWindow(13,7,3).
+assignToTimeWindow(13,8,3).
+assignToTimeWindow(13,9,3).
+assignToTimeWindow(13,10,3).
+assignToTimeWindow(13,11,3).
+assignToTimeWindow(13,12,3).
+assignToTimeWindow(13,13,3).
+assignToTimeWindow(13,14,3).
+assignToTimeWindow(13,15,3).
+assignToTimeWindow(14,1,2).
+assignToTimeWindow(14,2,2).
+assignToTimeWindow(14,3,2).
+assignToTimeWindow(14,4,2).
+assignToTimeWindow(14,5,2).
+assignToTimeWindow(14,6,2).
+assignToTimeWindow(14,7,3).
+assignToTimeWindow(14,8,3).
+assignToTimeWindow(14,9,3).
+assignToTimeWindow(14,10,3).
+assignToTimeWindow(14,11,3).
+assignToTimeWindow(14,12,3).
+assignToTimeWindow(14,13,3).
+assignToTimeWindow(14,14,3).
+assignToTimeWindow(14,15,3).
+assignToTimeWindow(15,1,1).
+assignToTimeWindow(15,2,1).
+assignToTimeWindow(15,3,1).
+assignToTimeWindow(15,4,1).
+assignToTimeWindow(15,5,1).
+assignToTimeWindow(15,6,1).
+assignToTimeWindow(15,7,1).
+assignToTimeWindow(15,8,1).
+assignToTimeWindow(15,9,1).
+assignToTimeWindow(15,10,1).
+assignToTimeWindow(15,11,1).
+assignToTimeWindow(15,12,1).
+assignToTimeWindow(15,13,1).
+assignToTimeWindow(15,14,1).
+assignToTimeWindow(15,15,1).
+assignToTimeWindow(16,1,1).
+assignToTimeWindow(16,2,1).
+assignToTimeWindow(16,3,1).
+assignToTimeWindow(16,4,1).
+assignToTimeWindow(16,5,1).
+assignToTimeWindow(16,6,1).
+assignToTimeWindow(16,7,1).
+assignToTimeWindow(16,8,1).
+assignToTimeWindow(16,9,1).
+assignToTimeWindow(16,10,1).
+assignToTimeWindow(16,11,1).
+assignToTimeWindow(16,12,1).
+assignToTimeWindow(16,13,1).
+assignToTimeWindow(16,14,1).
+assignToTimeWindow(16,15,1).
+assignToTimeWindow(17,1,1).
+assignToTimeWindow(17,2,1).
+assignToTimeWindow(17,3,1).
+assignToTimeWindow(17,4,1).
+assignToTimeWindow(17,5,1).
+assignToTimeWindow(17,6,1).
+assignToTimeWindow(17,7,1).
+assignToTimeWindow(17,8,1).
+assignToTimeWindow(17,9,1).
+assignToTimeWindow(17,10,1).
+assignToTimeWindow(17,11,1).
+assignToTimeWindow(17,12,2).
+assignToTimeWindow(17,13,2).
+assignToTimeWindow(17,14,2).
+assignToTimeWindow(17,15,2).
+assignToTimeWindow(18,1,1).
+assignToTimeWindow(18,2,1).
+assignToTimeWindow(18,3,1).
+assignToTimeWindow(18,4,1).
+assignToTimeWindow(18,5,1).
+assignToTimeWindow(18,6,1).
+assignToTimeWindow(18,7,1).
+assignToTimeWindow(18,8,1).
+assignToTimeWindow(18,9,1).
+assignToTimeWindow(18,10,2).
+assignToTimeWindow(18,11,2).
+assignToTimeWindow(18,12,2).
+assignToTimeWindow(18,13,2).
+assignToTimeWindow(18,14,2).
+assignToTimeWindow(18,15,2).
+assignToTimeWindow(19,1,1).
+assignToTimeWindow(19,2,1).
+assignToTimeWindow(19,3,2).
+assignToTimeWindow(19,4,2).
+assignToTimeWindow(19,5,2).
+assignToTimeWindow(19,6,2).
+assignToTimeWindow(19,7,2).
+assignToTimeWindow(19,8,2).
+assignToTimeWindow(19,9,2).
+assignToTimeWindow(19,10,2).
+assignToTimeWindow(19,11,2).
+assignToTimeWindow(19,12,3).
+assignToTimeWindow(19,13,3).
+assignToTimeWindow(19,14,3).
+assignToTimeWindow(19,15,3).
+assignToTimeWindow(20,1,1).
+assignToTimeWindow(20,2,1).
+assignToTimeWindow(20,3,1).
+assignToTimeWindow(20,4,1).
+assignToTimeWindow(20,5,1).
+assignToTimeWindow(20,6,1).
+assignToTimeWindow(20,7,1).
+assignToTimeWindow(20,8,1).
+assignToTimeWindow(20,9,2).
+assignToTimeWindow(20,10,2).
+assignToTimeWindow(20,11,2).
+assignToTimeWindow(20,12,2).
+assignToTimeWindow(20,13,2).
+assignToTimeWindow(20,14,3).
+assignToTimeWindow(20,15,3).
+assignToTimeWindow(21,1,2).
+assignToTimeWindow(21,2,2).
+assignToTimeWindow(21,3,2).
+assignToTimeWindow(21,4,3).
+assignToTimeWindow(21,5,3).
+assignToTimeWindow(21,6,3).
+assignToTimeWindow(21,7,3).
+assignToTimeWindow(21,8,3).
+assignToTimeWindow(21,9,3).
+assignToTimeWindow(21,10,3).
+assignToTimeWindow(21,11,3).
+assignToTimeWindow(21,12,3).
+assignToTimeWindow(21,13,3).
+assignToTimeWindow(21,14,3).
+assignToTimeWindow(21,15,3).
+assignToTimeWindow(22,1,1).
+assignToTimeWindow(22,2,1).
+assignToTimeWindow(22,3,1).
+assignToTimeWindow(22,4,1).
+assignToTimeWindow(22,5,1).
+assignToTimeWindow(22,6,1).
+assignToTimeWindow(22,7,2).
+assignToTimeWindow(22,8,2).
+assignToTimeWindow(22,9,2).
+assignToTimeWindow(22,10,2).
+assignToTimeWindow(22,11,2).
+assignToTimeWindow(22,12,2).
+assignToTimeWindow(22,13,3).
+assignToTimeWindow(22,14,3).
+assignToTimeWindow(22,15,3).
+assignToTimeWindow(23,1,1).
+assignToTimeWindow(23,2,1).
+assignToTimeWindow(23,3,2).
+assignToTimeWindow(23,4,2).
+assignToTimeWindow(23,5,2).
+assignToTimeWindow(23,6,2).
+assignToTimeWindow(23,7,2).
+assignToTimeWindow(23,8,2).
+assignToTimeWindow(23,9,2).
+assignToTimeWindow(23,10,2).
+assignToTimeWindow(23,11,2).
+assignToTimeWindow(23,12,2).
+assignToTimeWindow(23,13,2).
+assignToTimeWindow(23,14,2).
+assignToTimeWindow(23,15,2).
+assignToTimeWindow(24,1,1).
+assignToTimeWindow(24,2,1).
+assignToTimeWindow(24,3,1).
+assignToTimeWindow(24,4,1).
+assignToTimeWindow(24,5,1).
+assignToTimeWindow(24,6,1).
+assignToTimeWindow(24,7,1).
+assignToTimeWindow(24,8,1).
+assignToTimeWindow(24,9,1).
+assignToTimeWindow(24,10,1).
+assignToTimeWindow(24,11,1).
+assignToTimeWindow(24,12,1).
+assignToTimeWindow(24,13,1).
+assignToTimeWindow(24,14,1).
+assignToTimeWindow(24,15,2).
+assignToTimeWindow(25,1,1).
+assignToTimeWindow(25,2,1).
+assignToTimeWindow(25,3,1).
+assignToTimeWindow(25,4,1).
+assignToTimeWindow(25,5,1).
+assignToTimeWindow(25,6,1).
+assignToTimeWindow(25,7,1).
+assignToTimeWindow(25,8,2).
+assignToTimeWindow(25,9,2).
+assignToTimeWindow(25,10,2).
+assignToTimeWindow(25,11,2).
+assignToTimeWindow(25,12,2).
+assignToTimeWindow(25,13,2).
+assignToTimeWindow(25,14,2).
+assignToTimeWindow(25,15,2).
+assignToTimeWindow(26,1,1).
+assignToTimeWindow(26,2,1).
+assignToTimeWindow(26,3,1).
+assignToTimeWindow(26,4,1).
+assignToTimeWindow(26,5,1).
+assignToTimeWindow(26,6,1).
+assignToTimeWindow(26,7,1).
+assignToTimeWindow(26,8,2).
+assignToTimeWindow(26,9,2).
+assignToTimeWindow(26,10,2).
+assignToTimeWindow(26,11,2).
+assignToTimeWindow(26,12,2).
+assignToTimeWindow(26,13,2).
+assignToTimeWindow(26,14,3).
+assignToTimeWindow(26,15,3).
+assignToTimeWindow(27,1,2).
+assignToTimeWindow(27,2,2).
+assignToTimeWindow(27,3,2).
+assignToTimeWindow(27,4,2).
+assignToTimeWindow(27,5,2).
+assignToTimeWindow(27,6,2).
+assignToTimeWindow(27,7,2).
+assignToTimeWindow(27,8,3).
+assignToTimeWindow(27,9,3).
+assignToTimeWindow(27,10,3).
+assignToTimeWindow(27,11,3).
+assignToTimeWindow(27,12,3).
+assignToTimeWindow(27,13,3).
+assignToTimeWindow(27,14,3).
+assignToTimeWindow(27,15,3).
+assignToTimeWindow(28,1,3).
+assignToTimeWindow(28,2,3).
+assignToTimeWindow(28,3,3).
+assignToTimeWindow(28,4,3).
+assignToTimeWindow(28,5,3).
+assignToTimeWindow(28,6,3).
+assignToTimeWindow(28,7,3).
+assignToTimeWindow(28,8,3).
+assignToTimeWindow(28,9,3).
+assignToTimeWindow(28,10,3).
+assignToTimeWindow(28,11,3).
+assignToTimeWindow(28,12,3).
+assignToTimeWindow(28,13,3).
+assignToTimeWindow(28,14,3).
+assignToTimeWindow(28,15,3).
+assignToTimeWindow(29,1,2).
+assignToTimeWindow(29,2,2).
+assignToTimeWindow(29,3,2).
+assignToTimeWindow(29,4,2).
+assignToTimeWindow(29,5,2).
+assignToTimeWindow(29,6,3).
+assignToTimeWindow(29,7,3).
+assignToTimeWindow(29,8,3).
+assignToTimeWindow(29,9,3).
+assignToTimeWindow(29,10,3).
+assignToTimeWindow(29,11,3).
+assignToTimeWindow(29,12,3).
+assignToTimeWindow(29,13,3).
+assignToTimeWindow(29,14,3).
+assignToTimeWindow(29,15,3).
+assignToTimeWindow(30,1,1).
+assignToTimeWindow(30,2,1).
+assignToTimeWindow(30,3,1).
+assignToTimeWindow(30,4,1).
+assignToTimeWindow(30,5,1).
+assignToTimeWindow(30,6,1).
+assignToTimeWindow(30,7,1).
+assignToTimeWindow(30,8,2).
+assignToTimeWindow(30,9,2).
+assignToTimeWindow(30,10,2).
+assignToTimeWindow(30,11,2).
+assignToTimeWindow(30,12,2).
+assignToTimeWindow(30,13,2).
+assignToTimeWindow(30,14,2).
+assignToTimeWindow(30,15,2).
+assignToTimeWindow(31,1,1).
+assignToTimeWindow(31,2,1).
+assignToTimeWindow(31,3,2).
+assignToTimeWindow(31,4,2).
+assignToTimeWindow(31,5,2).
+assignToTimeWindow(31,6,2).
+assignToTimeWindow(31,7,2).
+assignToTimeWindow(31,8,2).
+assignToTimeWindow(31,9,2).
+assignToTimeWindow(31,10,2).
+assignToTimeWindow(31,11,3).
+assignToTimeWindow(31,12,3).
+assignToTimeWindow(31,13,3).
+assignToTimeWindow(31,14,3).
+assignToTimeWindow(31,15,3).
+assignToTimeWindow(32,1,2).
+assignToTimeWindow(32,2,2).
+assignToTimeWindow(32,3,2).
+assignToTimeWindow(32,4,2).
+assignToTimeWindow(32,5,2).
+assignToTimeWindow(32,6,2).
+assignToTimeWindow(32,7,2).
+assignToTimeWindow(32,8,2).
+assignToTimeWindow(32,9,2).
+assignToTimeWindow(32,10,2).
+assignToTimeWindow(32,11,3).
+assignToTimeWindow(32,12,3).
+assignToTimeWindow(32,13,3).
+assignToTimeWindow(32,14,3).
+assignToTimeWindow(32,15,3).
+assignToTimeWindow(33,1,1).
+assignToTimeWindow(33,2,1).
+assignToTimeWindow(33,3,2).
+assignToTimeWindow(33,4,2).
+assignToTimeWindow(33,5,2).
+assignToTimeWindow(33,6,2).
+assignToTimeWindow(33,7,2).
+assignToTimeWindow(33,8,2).
+assignToTimeWindow(33,9,2).
+assignToTimeWindow(33,10,2).
+assignToTimeWindow(33,11,2).
+assignToTimeWindow(33,12,3).
+assignToTimeWindow(33,13,3).
+assignToTimeWindow(33,14,3).
+assignToTimeWindow(33,15,3).
+assignToTimeWindow(34,1,2).
+assignToTimeWindow(34,2,2).
+assignToTimeWindow(34,3,2).
+assignToTimeWindow(34,4,2).
+assignToTimeWindow(34,5,2).
+assignToTimeWindow(34,6,2).
+assignToTimeWindow(34,7,2).
+assignToTimeWindow(34,8,2).
+assignToTimeWindow(34,9,2).
+assignToTimeWindow(34,10,2).
+assignToTimeWindow(34,11,3).
+assignToTimeWindow(34,12,3).
+assignToTimeWindow(34,13,3).
+assignToTimeWindow(34,14,3).
+assignToTimeWindow(34,15,3).
+assignToTimeWindow(35,1,1).
+assignToTimeWindow(35,2,2).
+assignToTimeWindow(35,3,2).
+assignToTimeWindow(35,4,2).
+assignToTimeWindow(35,5,2).
+assignToTimeWindow(35,6,2).
+assignToTimeWindow(35,7,3).
+assignToTimeWindow(35,8,3).
+assignToTimeWindow(35,9,3).
+assignToTimeWindow(35,10,3).
+assignToTimeWindow(35,11,3).
+assignToTimeWindow(35,12,3).
+assignToTimeWindow(35,13,3).
+assignToTimeWindow(35,14,3).
+assignToTimeWindow(35,15,3).
+assignToTimeWindow(36,1,2).
+assignToTimeWindow(36,2,2).
+assignToTimeWindow(36,3,2).
+assignToTimeWindow(36,4,2).
+assignToTimeWindow(36,5,3).
+assignToTimeWindow(36,6,3).
+assignToTimeWindow(36,7,3).
+assignToTimeWindow(36,8,3).
+assignToTimeWindow(36,9,3).
+assignToTimeWindow(36,10,3).
+assignToTimeWindow(36,11,3).
+assignToTimeWindow(36,12,3).
+assignToTimeWindow(36,13,3).
+assignToTimeWindow(36,14,3).
+assignToTimeWindow(36,15,3).
+assignToTimeWindow(37,1,1).
+assignToTimeWindow(37,2,1).
+assignToTimeWindow(37,3,1).
+assignToTimeWindow(37,4,1).
+assignToTimeWindow(37,5,1).
+assignToTimeWindow(37,6,1).
+assignToTimeWindow(37,7,1).
+assignToTimeWindow(37,8,1).
+assignToTimeWindow(37,9,1).
+assignToTimeWindow(37,10,1).
+assignToTimeWindow(37,11,1).
+assignToTimeWindow(37,12,1).
+assignToTimeWindow(37,13,1).
+assignToTimeWindow(37,14,1).
+assignToTimeWindow(37,15,1).
+assignToTimeWindow(38,1,1).
+assignToTimeWindow(38,2,1).
+assignToTimeWindow(38,3,1).
+assignToTimeWindow(38,4,1).
+assignToTimeWindow(38,5,1).
+assignToTimeWindow(38,6,1).
+assignToTimeWindow(38,7,1).
+assignToTimeWindow(38,8,2).
+assignToTimeWindow(38,9,2).
+assignToTimeWindow(38,10,2).
+assignToTimeWindow(38,11,2).
+assignToTimeWindow(38,12,2).
+assignToTimeWindow(38,13,2).
+assignToTimeWindow(38,14,2).
+assignToTimeWindow(38,15,2).
+assignToTimeWindow(39,1,2).
+assignToTimeWindow(39,2,2).
+assignToTimeWindow(39,3,2).
+assignToTimeWindow(39,4,3).
+assignToTimeWindow(39,5,3).
+assignToTimeWindow(39,6,3).
+assignToTimeWindow(39,7,3).
+assignToTimeWindow(39,8,3).
+assignToTimeWindow(39,9,3).
+assignToTimeWindow(39,10,3).
+assignToTimeWindow(39,11,3).
+assignToTimeWindow(39,12,3).
+assignToTimeWindow(39,13,3).
+assignToTimeWindow(39,14,3).
+assignToTimeWindow(39,15,3).
+assignToTimeWindow(40,1,2).
+assignToTimeWindow(40,2,2).
+assignToTimeWindow(40,3,3).
+assignToTimeWindow(40,4,3).
+assignToTimeWindow(40,5,3).
+assignToTimeWindow(40,6,3).
+assignToTimeWindow(40,7,3).
+assignToTimeWindow(40,8,3).
+assignToTimeWindow(40,9,3).
+assignToTimeWindow(40,10,3).
+assignToTimeWindow(40,11,3).
+assignToTimeWindow(40,12,3).
+assignToTimeWindow(40,13,3).
+assignToTimeWindow(40,14,3).
+assignToTimeWindow(40,15,3).
+assignToTimeWindow(41,1,1).
+assignToTimeWindow(41,2,1).
+assignToTimeWindow(41,3,1).
+assignToTimeWindow(41,4,1).
+assignToTimeWindow(41,5,1).
+assignToTimeWindow(41,6,1).
+assignToTimeWindow(41,7,1).
+assignToTimeWindow(41,8,1).
+assignToTimeWindow(41,9,1).
+assignToTimeWindow(41,10,1).
+assignToTimeWindow(41,11,1).
+assignToTimeWindow(41,12,1).
+assignToTimeWindow(41,13,1).
+assignToTimeWindow(41,14,1).
+assignToTimeWindow(41,15,2).
+assignToTimeWindow(42,1,1).
+assignToTimeWindow(42,2,1).
+assignToTimeWindow(42,3,1).
+assignToTimeWindow(42,4,1).
+assignToTimeWindow(42,5,1).
+assignToTimeWindow(42,6,1).
+assignToTimeWindow(42,7,2).
+assignToTimeWindow(42,8,2).
+assignToTimeWindow(42,9,2).
+assignToTimeWindow(42,10,2).
+assignToTimeWindow(42,11,2).
+assignToTimeWindow(42,12,2).
+assignToTimeWindow(42,13,2).
+assignToTimeWindow(42,14,2).
+assignToTimeWindow(42,15,2).
+assignToTimeWindow(43,1,2).
+assignToTimeWindow(43,2,3).
+assignToTimeWindow(43,3,3).
+assignToTimeWindow(43,4,3).
+assignToTimeWindow(43,5,3).
+assignToTimeWindow(43,6,3).
+assignToTimeWindow(43,7,3).
+assignToTimeWindow(43,8,3).
+assignToTimeWindow(43,9,3).
+assignToTimeWindow(43,10,3).
+assignToTimeWindow(43,11,3).
+assignToTimeWindow(43,12,3).
+assignToTimeWindow(43,13,3).
+assignToTimeWindow(43,14,3).
+assignToTimeWindow(43,15,3).
+assignToTimeWindow(44,1,1).
+assignToTimeWindow(44,2,1).
+assignToTimeWindow(44,3,1).
+assignToTimeWindow(44,4,1).
+assignToTimeWindow(44,5,1).
+assignToTimeWindow(44,6,1).
+assignToTimeWindow(44,7,1).
+assignToTimeWindow(44,8,1).
+assignToTimeWindow(44,9,1).
+assignToTimeWindow(44,10,1).
+assignToTimeWindow(44,11,1).
+assignToTimeWindow(44,12,1).
+assignToTimeWindow(44,13,2).
+assignToTimeWindow(44,14,2).
+assignToTimeWindow(44,15,2).
+assignToTimeWindow(45,1,2).
+assignToTimeWindow(45,2,3).
+assignToTimeWindow(45,3,3).
+assignToTimeWindow(45,4,3).
+assignToTimeWindow(45,5,3).
+assignToTimeWindow(45,6,3).
+assignToTimeWindow(45,7,3).
+assignToTimeWindow(45,8,3).
+assignToTimeWindow(45,9,3).
+assignToTimeWindow(45,10,3).
+assignToTimeWindow(45,11,3).
+assignToTimeWindow(45,12,3).
+assignToTimeWindow(45,13,3).
+assignToTimeWindow(45,14,3).
+assignToTimeWindow(45,15,3).
+assignToTimeWindow(46,1,1).
+assignToTimeWindow(46,2,1).
+assignToTimeWindow(46,3,2).
+assignToTimeWindow(46,4,2).
+assignToTimeWindow(46,5,3).
+assignToTimeWindow(46,6,3).
+assignToTimeWindow(46,7,3).
+assignToTimeWindow(46,8,3).
+assignToTimeWindow(46,9,3).
+assignToTimeWindow(46,10,3).
+assignToTimeWindow(46,11,3).
+assignToTimeWindow(46,12,3).
+assignToTimeWindow(46,13,3).
+assignToTimeWindow(46,14,3).
+assignToTimeWindow(46,15,3).
+assignToTimeWindow(47,1,1).
+assignToTimeWindow(47,2,1).
+assignToTimeWindow(47,3,1).
+assignToTimeWindow(47,4,1).
+assignToTimeWindow(47,5,1).
+assignToTimeWindow(47,6,1).
+assignToTimeWindow(47,7,1).
+assignToTimeWindow(47,8,1).
+assignToTimeWindow(47,9,1).
+assignToTimeWindow(47,10,1).
+assignToTimeWindow(47,11,1).
+assignToTimeWindow(47,12,1).
+assignToTimeWindow(47,13,1).
+assignToTimeWindow(47,14,1).
+assignToTimeWindow(47,15,1).
+assignToTimeWindow(48,1,1).
+assignToTimeWindow(48,2,1).
+assignToTimeWindow(48,3,1).
+assignToTimeWindow(48,4,1).
+assignToTimeWindow(48,5,2).
+assignToTimeWindow(48,6,2).
+assignToTimeWindow(48,7,2).
+assignToTimeWindow(48,8,2).
+assignToTimeWindow(48,9,2).
+assignToTimeWindow(48,10,2).
+assignToTimeWindow(48,11,3).
+assignToTimeWindow(48,12,3).
+assignToTimeWindow(48,13,3).
+assignToTimeWindow(48,14,3).
+assignToTimeWindow(48,15,3).
+assignToTimeWindow(49,1,1).
+assignToTimeWindow(49,2,1).
+assignToTimeWindow(49,3,1).
+assignToTimeWindow(49,4,1).
+assignToTimeWindow(49,5,1).
+assignToTimeWindow(49,6,1).
+assignToTimeWindow(49,7,1).
+assignToTimeWindow(49,8,1).
+assignToTimeWindow(49,9,1).
+assignToTimeWindow(49,10,1).
+assignToTimeWindow(49,11,1).
+assignToTimeWindow(49,12,1).
+assignToTimeWindow(49,13,1).
+assignToTimeWindow(49,14,1).
+assignToTimeWindow(49,15,2).
+assignToTimeWindow(50,1,2).
+assignToTimeWindow(50,2,2).
+assignToTimeWindow(50,3,2).
+assignToTimeWindow(50,4,2).
+assignToTimeWindow(50,5,2).
+assignToTimeWindow(50,6,2).
+assignToTimeWindow(50,7,2).
+assignToTimeWindow(50,8,2).
+assignToTimeWindow(50,9,2).
+assignToTimeWindow(50,10,2).
+assignToTimeWindow(50,11,2).
+assignToTimeWindow(50,12,2).
+assignToTimeWindow(50,13,2).
+assignToTimeWindow(50,14,3).
+assignToTimeWindow(50,15,3).
